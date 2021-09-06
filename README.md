@@ -20,6 +20,8 @@
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/149de14bf0a048feabffb211dc50125a~tplv-k3u1fbpfcp-watermark.image)
 
+这个项目同时也同步在Gitee上，链接如下：https://gitee.com/csguide/Programmer-look-at-China
+
 获取的方式如下，没有任何套路。
 
 公众号“**「CS 指南」**”后台回复 “**「学习路线」**” 即可获取下载链接。
