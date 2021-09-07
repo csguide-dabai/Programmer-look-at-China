@@ -1,6 +1,9 @@
 # 以程序员的视角看中国
 
-本系列详细的介绍了中国各二线以上城市的互联网环境以及生活成本，希望帮助能帮助到各位面临城市选择的程序员，内容还在持续完善中。如果大家对于各个城市的互联网信息还有要补充的，欢迎加我微信**dabai0016** 与我联系。
+本系列详细的介绍了中国各二线以上城市的互联网环境以及生活成本，希望帮助能帮助到各位面临城市选择的程序员，内容还在持续完善中。如果大家对于各个城市的互联网信息还有要补充的，欢迎加我微信 **dabai0016** 与我联系。
+
+- Github地址：https://github.com/csguide-dabai/Programmer-look-at-China 。
+- Gitee地址：https://gitee.com/csguide/Programmer-look-at-China 。
 
 | 城市              | 互联网环境评分（10） |
 | ----------------- | -------------------- |
@@ -14,13 +17,12 @@
 | [上海](./上海.md) | 9.0                  |
 | [成都](./成都.md) | 8.0                  |
 | [杭州](./杭州.md) | 9.0                  |
+
 ## 后记
 
 我整理了一系列开源的技术学习路线图，涵盖 Java、Go、Rust、Android、iOS、Web......。这些学习路线我已经下载到了本地。
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/149de14bf0a048feabffb211dc50125a~tplv-k3u1fbpfcp-watermark.image)
-
-这个项目同时也同步在Gitee上，链接如下：https://gitee.com/csguide/Programmer-look-at-China
 
 获取的方式如下，没有任何套路。
 
