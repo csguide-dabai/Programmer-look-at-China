@@ -2,27 +2,27 @@
 
 本系列详细的介绍了中国各二线以上城市的互联网环境以及生活成本，希望帮助能帮助到各位面临城市选择的程序员，内容还在持续完善中。如果大家对于各个城市的互联网信息还有要补充的，欢迎加我微信 **dabai0016** 与我联系。
 
-- Github地址：https://github.com/csguide-dabai/Programmer-look-at-China 。
-- Gitee地址：https://gitee.com/csguide/Programmer-look-at-China 。
+- Github 地址：https://github.com/csguide-dabai/Programmer-look-at-China 。
+- Gitee 地址：https://gitee.com/csguide/Programmer-look-at-China 。
 
-| 城市              | 互联网环境评分（10） |
-| ----------------- | -------------------- |
-| [北京](./北京.md) | 9.0                  |
-| [长沙](./长沙.md) | 6.5                  |
-| [广州](./广州.md) | 8.5                  |
-| [天津](./天津.md) | 6.5                  |
-| [西安](./西安.md) | 7.0                  |
-| [郑州](./郑州.md) | 6.0                  |
-| [青岛](./青岛.md) | 5.0                  |
-| [武汉](./武汉.md) | 7.5                  |
-| [上海](./上海.md) | 9.0                  |
-| [成都](./成都.md) | 8.0                  |
-| [杭州](./杭州.md) | 8.5                  |
-| [大连](./大连.md) | 5.5                  |
-| [苏州](./苏州.md) | 8.0                  |
-| [南京](./南京.md) | 7.0                  |
+| 城市                        | 互联网环境评分（10） |
+| --------------------------- | -------------------- |
+| [北京](./docs/beijing.md)   | 9.0                  |
+| [长沙](./docs/changsha.md)  | 6.5                  |
+| [广州](./docs/guangzhou.md) | 8.5                  |
+| [天津](./docs/tianjing.md)  | 6.5                  |
+| [西安](./docs/xian.md)      | 7.0                  |
+| [郑州](./docs/zhengzhou.md) | 6.0                  |
+| [青岛](./docs/qingdao.md)   | 5.0                  |
+| [武汉](./docs/wuhan.md)     | 7.5                  |
+| [上海](./docs/shanghai.md)  | 9.0                  |
+| [成都](./docs/chengdu.md)   | 8.0                  |
+| [杭州](./docs/hangzhou.md)  | 8.5                  |
+| [大连](./docs/dalian.md)    | 5.5                  |
+| [苏州](./docs/suzhou.md)    | 8.0                  |
+| [南京](./docs/nanjing.md)   | 7.0                  |
 
-## 后记
+## 技术资源
 
 我整理了一系列开源的技术学习路线图，涵盖 Java、Go、Rust、Android、iOS、Web......。这些学习路线我已经下载到了本地。
 
