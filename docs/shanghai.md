@@ -1,5 +1,7 @@
 
 
+# 上海
+
 大家中午好啊！我是大白。
 
 [程序员视角观城市](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxNDM1NjAyMQ==&action=getalbum&album_id=1917623991146446855&scene=173&from_msgid=2247485546&from_itemidx=1&count=3&nolastread=1#wechat_redirect)系列已经更新有 6 期了，我们一起看了西安、长沙、天津、广州、青岛。除了广州之外，其余的都是二线城市。
@@ -216,7 +218,7 @@ PayPal 提供的硬件环境也很不错，一般入职的时候就有 2 台 MBP
 
 除了上面介绍到的这些外企之外，上海还有 Intel（英特尔）、SAP（思爱普）、Amazon（亚马逊）、Booking 等不错的外企。
 
-## 生活环境&生活成本
+## 生活
 
 我们再来看看生活环境和生活成本。
 

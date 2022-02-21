@@ -5,22 +5,22 @@
 - Github 地址：https://github.com/csguide-dabai/Programmer-look-at-China 。
 - Gitee 地址：https://gitee.com/csguide/Programmer-look-at-China 。
 
-| 城市                        | 互联网环境评分（10） |
-| --------------------------- | -------------------- |
-| [北京](./docs/beijing.md)   | 9.0                  |
-| [长沙](./docs/changsha.md)  | 6.5                  |
-| [广州](./docs/guangzhou.md) | 8.5                  |
-| [天津](./docs/tianjing.md)  | 6.5                  |
-| [西安](./docs/xian.md)      | 7.0                  |
-| [郑州](./docs/zhengzhou.md) | 6.0                  |
-| [青岛](./docs/qingdao.md)   | 5.0                  |
-| [武汉](./docs/wuhan.md)     | 7.5                  |
-| [上海](./docs/shanghai.md)  | 9.0                  |
-| [成都](./docs/chengdu.md)   | 8.0                  |
-| [杭州](./docs/hangzhou.md)  | 8.5                  |
-| [大连](./docs/dalian.md)    | 5.5                  |
-| [苏州](./docs/suzhou.md)    | 8.0                  |
-| [南京](./docs/nanjing.md)   | 7.0                  |
+| 城市                                                         | 互联网环境评分（10） |
+| ------------------------------------------------------------ | -------------------- |
+| [北京（上）](./docs/beijing-01.md)、[北京（下）](./docs/beijing-02.md) | 9.0                  |
+| [长沙](./docs/changsha.md)                                   | 6.5                  |
+| [广州](./docs/guangzhou.md)                                  | 8.5                  |
+| [天津](./docs/tianjin.md)                                    | 6.5                  |
+| [西安](./docs/xian.md)                                       | 7.0                  |
+| [郑州](./docs/zhengzhou.md)                                  | 6.0                  |
+| [青岛](./docs/qingdao.md)                                    | 5.0                  |
+| [武汉](./docs/wuhan.md)                                      | 7.5                  |
+| [上海](./docs/shanghai.md)                                   | 9.0                  |
+| [成都](./docs/chengdu.md)                                    | 8.0                  |
+| [杭州](./docs/hangzhou.md)                                   | 8.5                  |
+| [大连](./docs/dalian.md)                                     | 5.5                  |
+| [苏州](./docs/suzhou.md)                                     | 8.0                  |
+| [南京](./docs/nanjing.md)                                    | 7.0                  |
 
 ## 技术资源
 
