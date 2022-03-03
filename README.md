@@ -21,6 +21,7 @@
 | [大连](./docs/dalian.md)                                     | 5.5                  |
 | [苏州](./docs/suzhou.md)                                     | 8.0                  |
 | [南京](./docs/nanjing.md)                                    | 7.0                  |
+| [重庆](./docs/chongqing.md)                                  | 6.5                  |
 
 ## 技术资源
 
