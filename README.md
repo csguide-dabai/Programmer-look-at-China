@@ -21,8 +21,8 @@
 | [大连](./docs/dalian.md)                                     | 5.5                  |
 | [苏州](./docs/suzhou.md)                                     | 8.0                  |
 | [南京](./docs/nanjing.md)                                    | 7.0                  |
-| [重庆](./docs/chongqing.md)                                  | 6.5                  |
-
+| [重庆](./docs/chongqing.md)                                  | 6.0                  |
+| [合肥](./docs/hefei.md)                                      | 6.5                  |
 ## 技术资源
 
 我整理了一系列开源的技术学习路线图，涵盖 Java、Go、Rust、Android、iOS、Web......。这些学习路线我已经下载到了本地。
